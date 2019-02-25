@@ -8,7 +8,7 @@ A piece of data (of some type), that is stored on a pod server. This file has a 
 The data storage model used by the semantic web. An RDF graph can be visualized as a node and directed-arc diagram, in which each triple is represented as a node-arc-node link. RDF graphs are set(s) of “subject - predicate - object” triples that are used to express descriptions of resources. The Turtle language is used to express these triples. 
 
 ### Homepage
-A Solid users' exposed, customizable, profile
+A Solid Pod owner's sub-domain Root and Index.html page. This page is fully customizable and exposed to the public by default but, can be made private per ACL permissions.
 
 ### Node
 May refer to two things:
